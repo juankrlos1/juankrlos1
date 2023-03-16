@@ -36,7 +36,7 @@ A lo largo de mi carrera, he tenido la oportunidad de trabajar en proyectos de d
 
 ## 💡 Inspiración para otros programadores
 
-Creo firmemente en compartir conocimientos y ayudar a otros programadores a crecer y mejorar sus habilidades. Me gusta escribir artículos en mi blog personal y dar charlas en conferencias y meetups para compartir mis experiencias y descubrimientos. También disfruto contribuyendo a proyectos de código abierto y colaborando con otros desarrolladores para impulsar la comunidad de programadores.
+Creo firmemente en compartir conocimientos y ayudar a otros programadores a crecer y mejorar sus habilidades. Me gusta escribir artículos en mi blog personal para compartir mis experiencias y descubrimientos. También disfruto contribuyendo a proyectos de código abierto y colaborando con otros desarrolladores para impulsar la comunidad de programadores.
 
 ## 📫 Cómo contactarme
 
