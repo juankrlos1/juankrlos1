@@ -17,6 +17,7 @@ Soy un apasionado y experimentado Backend Developer, con más de 11 años de exp
 - MongoDB
 - MySQL
 - SQL Server
+- Redis
 
 ## 🛠 Experiencia en frameworks
 
@@ -29,6 +30,7 @@ Soy un apasionado y experimentado Backend Developer, con más de 11 años de exp
 - Moleculer JS
 - Yii2
 - NodeJS
+- gRpc
 
 ## 🏆 Logros
 
